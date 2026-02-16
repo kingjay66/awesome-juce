@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'octokit'
+gem 'octokit', '>= 4.23.0'
 gem 'actionview'
 gem 'activesupport'
